@@ -1,6 +1,6 @@
 ## Actividad 1 - Modelado Conceptual
 
-![Actividad1_Enuncia2](images/Actividad-1.pdf)
+![Actividad1_Enuncia2](images/Act1.jpg)
 
 ### Resolución
 
