@@ -1,10 +1,10 @@
-# 📊 Diseño de Bases de Datos
+# Diseño de Bases de Datos
 
 Repositorio de la materia **Diseño de Bases de Datos**. Contiene teoría, resúmenes y ejercicios prácticos sobre el modelado y gestión de bases de datos relacionales.
 
 ---
 
-## 📚 Contenidos
+## Contenidos
 
 - Sistemas de gestión de bases de datos (SGBD)
 - Modelado de datos (conceptual, lógico y físico)
@@ -20,32 +20,25 @@ Repositorio de la materia **Diseño de Bases de Datos**. Contiene teoría, resú
 
 ---
 
-## 🧠 Objetivo
+## Objetivo
 
 Comprender el diseño, implementación y administración de bases de datos, desde el modelado conceptual hasta su implementación física, asegurando eficiencia, integridad y consistencia de los datos.
 
 ---
 
-## 🗂️ Estructura del repositorio
+## Estructura del repositorio
 
-📁 modelado_conceptual/   
-📁 modelado_logico_y_fisico/  
-📁 ar/  
-📁 sql/  
+modelado_conceptual/   
+modelado_logico_y_fisico/  
+ar/  
+sql/  
 
 ---
 
-## 🚀 Tecnologías
+## Tecnologías
 
 - SQL  
 - Modelado E/R
 - Modelo relacional
 - Sistemas de gestión de bases de datos
 
----
-
-## 📌 Nota
-
-Repositorio creado con fines de estudio y práctica de la materia Diseño de Bases de Datos.
-
----
